@@ -1,0 +1,10 @@
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\bin\Debug\netcoreapp3.1\HHServer.CSRedis.deps.json
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\bin\Debug\netcoreapp3.1\HHServer.CSRedis.dll
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\bin\Debug\netcoreapp3.1\HHServer.CSRedis.pdb
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\obj\Debug\netcoreapp3.1\HHServer.CSRedis.csproj.AssemblyReference.cache
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\obj\Debug\netcoreapp3.1\HHServer.CSRedis.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\obj\Debug\netcoreapp3.1\HHServer.CSRedis.AssemblyInfoInputs.cache
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\obj\Debug\netcoreapp3.1\HHServer.CSRedis.AssemblyInfo.cs
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\obj\Debug\netcoreapp3.1\HHServer.CSRedis.csproj.CoreCompileInputs.cache
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\obj\Debug\netcoreapp3.1\HHServer.CSRedis.dll
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.CSRedis\obj\Debug\netcoreapp3.1\HHServer.CSRedis.pdb

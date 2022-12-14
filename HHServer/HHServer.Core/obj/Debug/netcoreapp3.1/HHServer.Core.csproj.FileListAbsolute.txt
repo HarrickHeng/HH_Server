@@ -1,0 +1,10 @@
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\bin\Debug\netcoreapp3.1\HHServer.Core.deps.json
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\bin\Debug\netcoreapp3.1\HHServer.Core.dll
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\bin\Debug\netcoreapp3.1\HHServer.Core.pdb
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\obj\Debug\netcoreapp3.1\HHServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\obj\Debug\netcoreapp3.1\HHServer.Core.AssemblyInfoInputs.cache
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\obj\Debug\netcoreapp3.1\HHServer.Core.AssemblyInfo.cs
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\obj\Debug\netcoreapp3.1\HHServer.Core.csproj.CoreCompileInputs.cache
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\obj\Debug\netcoreapp3.1\HHServer.Core.dll
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\obj\Debug\netcoreapp3.1\HHServer.Core.pdb
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Core\obj\Debug\netcoreapp3.1\HHServer.Core.csproj.AssemblyReference.cache

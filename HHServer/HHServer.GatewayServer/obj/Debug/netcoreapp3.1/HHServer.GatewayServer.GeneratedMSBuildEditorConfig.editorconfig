@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HHServer.GatewayServer
+build_property.ProjectDir = E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.GatewayServer\
